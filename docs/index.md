@@ -1,4 +1,5 @@
-# Index
+---
+title: Home
+---
 
-Hello, world!
-
+This website exists to provide documentation for the Jai programming language.
