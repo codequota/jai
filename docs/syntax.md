@@ -61,7 +61,7 @@ Animal :: enum {
 The `switch` statement in `jai` is done with an `if` syntax.
 
 * You can `switch` over all the fundamental types of the language.
-* `jai` does not require break statements to exit the `switch`. Each case breaks automatically unless [#through](##through) is applied to it.
+* `jai` does not require break statements to exit the `switch`. Each case breaks automatically unless [#through](#through) is applied to it.
 * Each `case` is a separate scope.
 
 ```c++
