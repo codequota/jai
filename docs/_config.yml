@@ -2,7 +2,8 @@ remote_theme: codequota/just-the-docs
 
 title: Jai Docs
 description: A documentation website for the Jai programming language.
-url: "https://codequota.github.io"
+baseurl: "/"
+url: "https://www.jaidocs.com"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
