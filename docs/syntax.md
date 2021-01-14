@@ -15,8 +15,6 @@ main :: () {
 
 ## Variable Assignment
 
-TODO
-
 ```c++
 x = 3.0;
 x := 3.0;
