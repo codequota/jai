@@ -1,6 +1,6 @@
 # Syntax
 
-This document shows some basic syntax of the `jai` language.
+This document shows some basic syntax of the `jai` programming language.
 
 * Keep in mind that syntax is not yet final, and can easily differ from this document at any time.
 * For now, each `jai` code block is marked as `c++` for syntax highlighting purposes.
