@@ -1,5 +1,6 @@
 ---
 title: Coming Soon
+nav_exclude: true
 ---
 
 # Coming Soon in 2022
