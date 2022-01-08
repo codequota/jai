@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Coming Soon
 ---
 
-# Home
+# Coming Soon
 
 This website exists to provide documentation for the Jai programming language.
 
